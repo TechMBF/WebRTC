@@ -1,0 +1,12 @@
+.npmignore
+.gitignore
+
+example/
+build/
+build/
+test/
+
+vendor/node-ctype/README
+vendor/node-ctype/ctio.js
+vendor/node-ctype/ctype.js
+vendor/node-ctype/tst/
